@@ -20,7 +20,7 @@ I have a degree in Systems Analysis and Development from Estácio de Sá Univers
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <div>
 
-### Estudando 📚
+### Studying 📚
 
 ### Estatisticas Github
 <div>
