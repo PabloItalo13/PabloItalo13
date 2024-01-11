@@ -1,9 +1,11 @@
-# 👋 Welcome to my Github profile
+# Welcome to my Github profile 👋
+
+### About me 🧑‍💻
 
 My name is Pablo Italo Bentes Sarmento, I'm 27 years old and I'm Brazilian and born in Manaus-AM. I currently work as a junior systems analyst at the company Flex, in the IT field I have been working in since I was 15 years old.
 I have a degree in Systems Analysis and Development from Estácio de Sá University and a Postgraduate in Software Development from the State University of Amazonas - UEA.
 
-### 📞 My contacts
+### My contacts 📞
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
