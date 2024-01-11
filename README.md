@@ -15,5 +15,10 @@ I have a degree in Systems Analysis and Development from Estácio de Sá Univers
   <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
 
+### Tools and Technologies ⚙️💻
+<div>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<div>
+
 ![Snake animation](https://github.com/PabloItalo13/PabloItalo13/blob/output/github-contribution-grid-snake.svg)
 
