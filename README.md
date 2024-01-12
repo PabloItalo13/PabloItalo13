@@ -5,7 +5,11 @@
 My name is Pablo Italo Bentes Sarmento, I'm 27 years old and I'm Brazilian and born in Manaus-AM. I currently work as a junior systems analyst at the company Flex, in the IT field I have been working in since I was 15 years old.
 I have a degree in Systems Analysis and Development from Estácio de Sá University and a Postgraduate in Software Development from the State University of Amazonas - UEA.
 
-<div class="tenor-gif-embed" data-postid="14827989" data-share-method="host" data-aspect-ratio="1.39738" data-width="100%"><a href="https://tenor.com/view/animation-cartoons-toons-danny-phantom-danny-fenton-gif-14827989">Animation Cartoons GIF</a>from <a href="https://tenor.com/search/animation-gifs">Animation GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="14827989" data-share-method="host" data-aspect-ratio="1.39738" data-width="100%">
+  <a href="https://tenor.com/view/animation-cartoons-toons-danny-phantom-danny-fenton-gif-14827989">Animation Cartoons GIF</a>
+  <a href="https://tenor.com/search/animation-gifs">Animation GIFs</a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### My contacts 📞
 
