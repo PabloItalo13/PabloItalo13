@@ -18,7 +18,7 @@ I have a degree in Systems Analysis and Development from Estácio de Sá Univers
 ### Tools and Technologies ⚙️💻
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
 <div>
 
 ### Studying 📚
