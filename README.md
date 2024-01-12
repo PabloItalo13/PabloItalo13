@@ -5,6 +5,8 @@
 My name is Pablo Italo Bentes Sarmento, I'm 27 years old and I'm Brazilian and born in Manaus-AM. I currently work as a junior systems analyst at the company Flex, in the IT field I have been working in since I was 15 years old.
 I have a degree in Systems Analysis and Development from Estácio de Sá University and a Postgraduate in Software Development from the State University of Amazonas - UEA.
 
+<img src="https://tenor.com/banBh.gif" width="40" height="40" />
+
 ### My contacts 📞
 
 <div>
