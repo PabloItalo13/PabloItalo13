@@ -1,67 +1,172 @@
-# Welcome to my Github profile 👋
+# 👋 Olá, Bem-Vindo !
 
-### About me 🧑‍💻
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C853&height=200&section=header&text=Pablo%20Ítalo%20Bentes%20Sarmento&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-My name is Pablo Italo Bentes Sarmento, I'm 27 years old and I'm Brazilian and born in Manaus-AM. I currently work as a junior systems analyst at the company Flex, in the IT field I have been working in since I was 15 years old.
-I have a degree in Systems Analysis and Development from Estácio de Sá University and a Postgraduate in Software Development from the State University of Amazonas - UEA.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=*+Function+*;Mid+Systems+Analyst;*+Specialties+*;SQL+Server,+PowerShell+Automation,+Systems+Integration;MES+Applications,+Manufacturing+Solutions+and+Others." />
+</p>
 
-### My contacts 📞
+💼 Mid Systems Analyst  
+🏭 Especialista em Automação de Processos, Integração de Sistemas e Soluções de Manufatura  
+⚙️ Atuação focada em SQL Server, PowerShell, ServiceNow, FlexFlow, Automação Corporativa e Rastreabilidade de Produção
 
-<div>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+---
 
-### Tools and Technologies ⚙️💻
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" />
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />
-<div>
+## 🚀 Sobre Mim
 
-### Studying 📚
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" />
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="40" height="40" />
+Sou Analista de Sistemas com experiência no desenvolvimento de soluções para ambientes industriais e corporativos, atuando principalmente em:
 
-### Github Stats 📊
-<div>
-  <a href="https://github.com/PabloItalo13">
-  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloItalo13&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=PabloItalo13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+- Automação de processos operacionais
+- Desenvolvimento de soluções em SQL Server
+- Integração entre sistemas corporativos
+- Gestão de acessos e segurança de aplicações
+- Desenvolvimento de scripts PowerShell
+- Processos de rastreabilidade de manufatura
+- Melhoria contínua e otimização de processos
 
-![Snake animation](https://github.com/PabloItalo13/PabloItalo13/blob/output/github-contribution-grid-snake.svg)
+Atualmente trabalho com projetos voltados para manufatura eletrônica, controle de acesso, rastreabilidade de produção e automação de fluxos empresariais.
 
+---
+
+## 💡 Destaques Profissionais
+
+🔹 +5 anos atuando com sistemas corporativos e manufatura
+
+🔹 Especialista em automação de processos utilizando PowerShell
+
+🔹 Experiência em integrações entre sitemas corporativos e bancos de dados
+
+🔹 Desenvolvimento de soluções para rastreabilidade de produção
+
+🔹 Foco em segurança, gestão de acessos e compliance
+
+🔹 Automação de rotinas administrativas e operacionais
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 🗄️ Banco de Dados
+🔹 SQL Server
+🔹 Oracle Database
+🔹 PostgreSQL
+🔹 MySQL
+🔹 SQLite
+
+### 🤖 Automação e Integrações
+🔹 PowerShell
+🔹 REST APIs
+🔹 JSON
+🔹 XML
+🔹 Windows Task Scheduler
+🔹 ETL Processes
+
+### 🏭 Sistemas e Plataformas
+🔹 Microsoft Windows Server
+🔹 GitHub
+🔹 Git
+
+### 💻 Desenvolvimento
+🔹 T-SQL
+🔹 PowerShell Scripting
+🔹 Stored Procedures
+🔹 Dynamic SQL
+🔹 XML Processing
+🔹 JSON Processing
+
+---
+
+## 🎓 Especialidades
+
+✅ Automação de Processos Corporativos
+
+✅ Integração Sistemas Corporativos
+
+✅ Administração e Otimização SQL Server
+
+✅ Desenvolvimento PowerShell
+
+✅ Gestão de Acessos e Compliance
+
+✅ Sistemas de Rastreabilidade para Manufatura
+
+✅ Integração entre Sistemas e APIs
+
+✅ Análise e Resolução de Problemas Complexos
+
+---
+
+## 📂 Principais Áreas de Atuação
+
+### 🏭 Manufacturing Systems
+- MES
+- Traceabilidade de Produção
+- Controle de Serial Number
+- Integração com ERP
+
+### 🔐 Access Management
+- Controle de Acessos
+- Auditoria e Compliance
+- Automação de Provisionamento
+- Integração de Sistemas
+
+### 📊 Database Solutions
+- Stored Procedures
+- Performance Tuning
+- Query Optimization
+- ETL e Integrações
+
+### ⚡ Automação
+- PowerShell
+- Processos Batch
+- Monitoramento
+- Integrações Corporativas
+
+---
+
+## 📈 Estatísticas GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloItalo13&layout=compact&theme=github_dark)
+
+---
+
+## 🎯 Atualmente Trabalhando Em
+
+- Automação de processos corporativos
+- Integrações entre sistemas corporativos
+- Soluções de rastreabilidade para manufatura
+- Controle de acessos e auditoria
+- Otimização de bancos SQL Server
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://linkedin.com/in/pabloitalosarmento
+
+📧 E-mail: pabloitalobs@gmail.com
+
+🐙 GitHub: https://github.com/PabloItalo13
+
+📍 Manaus, Amazonas - Brasil
+
+---
+
+💡 "Automatizar processos é transformar esforço operacional em valor para o negócio."
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
