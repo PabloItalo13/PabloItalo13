@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=*+Function+*;Mid+Systems+Analyst;*+Specialties+*;SQL+Server,+PowerShell+Automation,+Systems+Integration;MES+Applications,+Manufacturing+Solutions+and+Others." />
 </p>
 
-💼 Mid Systems Analyst  
+💼 Sr Systems Analyst  
 🏭 Especialista em Automação de Processos, Integração de Sistemas e Soluções de Manufatura  
 ⚙️ Atuação focada em SQL Server, PowerShell, ServiceNow, FlexFlow, Automação Corporativa e Rastreabilidade de Produção
 
