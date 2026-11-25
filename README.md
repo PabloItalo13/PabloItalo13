@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=*+Function+*;Mid+Systems+Analyst;*+Specialties+*;SQL+Server,+PowerShell+Automation,+Systems+Integration;MES+Applications,+Manufacturing+Solutions+and+Others." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=1000&lines=*+Function+*;Sr+Systems+Analyst;*+Specialties+*;SQL+Server,+PowerShell+Automation,+Systems+Integration;MES+Applications,+Manufacturing+Solutions+and+Others." />
 </p>
 
 💼 Sr Systems Analyst  
