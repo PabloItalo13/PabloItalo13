@@ -1,7 +1,7 @@
 # 👋 Olá, Bem-Vindo !
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C853&height=200&section=header&text=Pablo%20Ítalo%20Bentes%20Sarmento&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C853&height=200&section=header&text=Pablo%20Italo%20Bentes%20Sarmento&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
